@@ -37,7 +37,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/financial-twitter-sentiment-analyzer.git
+   git clone https://github.com/bidur-timsina/twitter_financial-_sentiment_app
    cd financial-twitter-sentiment-analyzer
 Create a virtual environment:
 
