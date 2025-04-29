@@ -37,7 +37,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/bidur-timsina/twitter_financial-_sentiment_app
+   git clonehttps://github.com/bidur-timsina/twitter_financial-_sentiment_app
    cd financial-twitter-sentiment-analyzer
 Create a virtual environment:
 
@@ -137,9 +137,3 @@ Add support for historical data and longer time periods.
 Enable analysis of different languages (e.g., using multilingual sentiment analysis models).
 
 Provide more financial indicators in sentiment analysis (e.g., price trends, volume).
-
-vbnet
-Copy
-Edit
-
-This `README.md` will help users get started with the project and guide them through installation, confi
